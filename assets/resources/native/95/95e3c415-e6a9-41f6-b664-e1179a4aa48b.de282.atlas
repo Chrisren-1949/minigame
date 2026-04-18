@@ -1,0 +1,41 @@
+
+room_4_4.png
+size: 470,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 71
+  size: 283, 183
+  orig: 283, 183
+  offset: 0, 0
+  index: -1
+1s
+  rotate: false
+  xy: 2, 6
+  size: 265, 63
+  orig: 273, 69
+  offset: 3, 3
+  index: -1
+2a
+  rotate: false
+  xy: 287, 128
+  size: 181, 126
+  orig: 181, 126
+  offset: 0, 0
+  index: -1
+2b
+  rotate: false
+  xy: 269, 2
+  size: 133, 49
+  orig: 133, 49
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 287, 53
+  size: 180, 73
+  orig: 180, 73
+  offset: 0, 0
+  index: -1

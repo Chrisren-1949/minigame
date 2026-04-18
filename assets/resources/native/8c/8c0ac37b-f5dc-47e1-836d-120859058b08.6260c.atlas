@@ -1,0 +1,13 @@
+
+room_2_5.png
+size: 267,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiang
+  rotate: false
+  xy: 2, 2
+  size: 263, 408
+  orig: 284, 421
+  offset: 3, 12
+  index: -1

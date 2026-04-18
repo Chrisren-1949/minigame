@@ -1,0 +1,125 @@
+
+room_5_18.png
+size: 299,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 148, 234
+  size: 512, 140
+  orig: 514, 142
+  offset: 1, 1
+  index: -1
+as
+  rotate: true
+  xy: 2, 171
+  size: 575, 144
+  orig: 623, 161
+  offset: 24, 10
+  index: -1
+b1
+  rotate: true
+  xy: 239, 58
+  size: 44, 53
+  orig: 46, 55
+  offset: 1, 1
+  index: -1
+b11
+  rotate: true
+  xy: 147, 75
+  size: 74, 90
+  orig: 76, 92
+  offset: 1, 1
+  index: -1
+b1a
+  rotate: false
+  xy: 95, 73
+  size: 44, 25
+  orig: 46, 27
+  offset: 1, 1
+  index: -1
+b2
+  rotate: true
+  xy: 95, 128
+  size: 41, 50
+  orig: 43, 52
+  offset: 1, 1
+  index: -1
+b21
+  rotate: true
+  xy: 141, 2
+  size: 71, 89
+  orig: 73, 93
+  offset: 1, 3
+  index: -1
+b2a
+  rotate: false
+  xy: 94, 21
+  size: 41, 23
+  orig: 43, 25
+  offset: 1, 1
+  index: -1
+b3
+  rotate: true
+  xy: 242, 187
+  size: 45, 54
+  orig: 47, 56
+  offset: 1, 1
+  index: -1
+b31
+  rotate: true
+  xy: 2, 25
+  size: 71, 90
+  orig: 73, 92
+  offset: 1, 1
+  index: -1
+b3a
+  rotate: false
+  xy: 94, 46
+  size: 44, 25
+  orig: 46, 27
+  offset: 1, 1
+  index: -1
+b4
+  rotate: true
+  xy: 242, 140
+  size: 45, 53
+  orig: 47, 55
+  offset: 1, 1
+  index: -1
+b41
+  rotate: true
+  xy: 2, 98
+  size: 71, 91
+  orig: 73, 93
+  offset: 1, 1
+  index: -1
+b4a
+  rotate: false
+  xy: 95, 100
+  size: 44, 26
+  orig: 46, 28
+  offset: 1, 1
+  index: -1
+e
+  rotate: true
+  xy: 239, 104
+  size: 34, 58
+  orig: 36, 60
+  offset: 1, 1
+  index: -1
+guang
+  rotate: true
+  xy: 148, 151
+  size: 81, 92
+  orig: 94, 114
+  offset: 7, 15
+  index: -1
+mask
+  rotate: false
+  xy: 2, 3
+  size: 67, 20
+  orig: 70, 22
+  offset: 1, 1
+  index: -1

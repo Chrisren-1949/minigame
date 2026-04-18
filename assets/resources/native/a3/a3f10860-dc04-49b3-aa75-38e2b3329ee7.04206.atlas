@@ -1,0 +1,34 @@
+
+room_5_3.png
+size: 819,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 306, 2
+  size: 250, 198
+  orig: 251, 198
+  offset: 1, 0
+  index: -1
+as
+  rotate: false
+  xy: 2, 8
+  size: 302, 192
+  orig: 322, 200
+  offset: 16, 4
+  index: -1
+b
+  rotate: true
+  xy: 688, 41
+  size: 159, 129
+  orig: 162, 133
+  offset: 3, 4
+  index: -1
+bs
+  rotate: true
+  xy: 558, 14
+  size: 186, 128
+  orig: 203, 142
+  offset: 13, 7
+  index: -1

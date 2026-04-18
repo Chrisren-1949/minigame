@@ -1,0 +1,13 @@
+
+room_5_29.png
+size: 172,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 168, 245
+  orig: 170, 247
+  offset: 1, 1
+  index: -1

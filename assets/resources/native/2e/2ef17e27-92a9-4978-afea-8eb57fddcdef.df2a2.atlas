@@ -1,0 +1,167 @@
+
+room_5_35.png
+size: 558,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 131
+  size: 294, 131
+  orig: 296, 136
+  offset: 1, 1
+  index: -1
+1s
+  rotate: false
+  xy: 2, 4
+  size: 306, 125
+  orig: 325, 145
+  offset: 7, 7
+  index: -1
+2a
+  rotate: true
+  xy: 482, 189
+  size: 73, 52
+  orig: 81, 59
+  offset: 4, 4
+  index: -1
+2b
+  rotate: false
+  xy: 310, 2
+  size: 23, 23
+  orig: 27, 26
+  offset: 3, 2
+  index: -1
+2c
+  rotate: true
+  xy: 505, 121
+  size: 32, 30
+  orig: 35, 34
+  offset: 2, 1
+  index: -1
+2d
+  rotate: true
+  xy: 505, 58
+  size: 29, 26
+  orig: 31, 31
+  offset: 1, 4
+  index: -1
+3a
+  rotate: true
+  xy: 533, 94
+  size: 25, 23
+  orig: 34, 25
+  offset: 5, 1
+  index: -1
+3b
+  rotate: false
+  xy: 528, 6
+  size: 28, 19
+  orig: 34, 23
+  offset: 4, 3
+  index: -1
+3c
+  rotate: false
+  xy: 370, 5
+  size: 23, 20
+  orig: 27, 24
+  offset: 3, 3
+  index: -1
+3d
+  rotate: true
+  xy: 536, 199
+  size: 29, 20
+  orig: 36, 24
+  offset: 4, 3
+  index: -1
+3e
+  rotate: true
+  xy: 536, 230
+  size: 32, 20
+  orig: 39, 25
+  offset: 5, 4
+  index: -1
+3f
+  rotate: false
+  xy: 335, 4
+  size: 33, 21
+  orig: 37, 23
+  offset: 2, 1
+  index: -1
+3g
+  rotate: true
+  xy: 537, 147
+  size: 21, 18
+  orig: 26, 22
+  offset: 4, 3
+  index: -1
+3h
+  rotate: true
+  xy: 482, 155
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+3j
+  rotate: true
+  xy: 505, 14
+  size: 42, 21
+  orig: 44, 23
+  offset: 1, 1
+  index: -1
+4a
+  rotate: false
+  xy: 298, 139
+  size: 182, 123
+  orig: 183, 124
+  offset: 1, 1
+  index: -1
+4s
+  rotate: false
+  xy: 310, 27
+  size: 193, 110
+  orig: 206, 114
+  offset: 7, 3
+  index: -1
+5a
+  rotate: true
+  xy: 505, 89
+  size: 30, 26
+  orig: 32, 28
+  offset: 1, 1
+  index: -1
+5as
+  rotate: false
+  xy: 433, 10
+  size: 36, 15
+  orig: 44, 20
+  offset: 4, 1
+  index: -1
+5b
+  rotate: true
+  xy: 528, 27
+  size: 29, 23
+  orig: 31, 26
+  offset: 1, 2
+  index: -1
+5bs
+  rotate: false
+  xy: 395, 9
+  size: 36, 16
+  orig: 44, 23
+  offset: 4, 4
+  index: -1
+5c
+  rotate: true
+  xy: 533, 67
+  size: 25, 23
+  orig: 27, 26
+  offset: 1, 2
+  index: -1
+5cs
+  rotate: false
+  xy: 517, 170
+  size: 37, 17
+  orig: 45, 22
+  offset: 5, 2
+  index: -1

@@ -1,0 +1,132 @@
+
+room_5_15.png
+size: 2003,763
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 1402, 11
+  size: 750, 172
+  orig: 752, 177
+  offset: 1, 1
+  index: -1
+as
+  rotate: true
+  xy: 1857, 14
+  size: 747, 144
+  orig: 750, 161
+  offset: 1, 16
+  index: -1
+b
+  rotate: true
+  xy: 1739, 11
+  size: 750, 116
+  orig: 752, 127
+  offset: 1, 4
+  index: -1
+c
+  rotate: true
+  xy: 1576, 11
+  size: 750, 161
+  orig: 752, 163
+  offset: 1, 1
+  index: -1
+d
+  rotate: true
+  xy: 2, 196
+  size: 565, 707
+  orig: 567, 709
+  offset: 1, 1
+  index: -1
+d1
+  rotate: false
+  xy: 330, 109
+  size: 104, 48
+  orig: 106, 50
+  offset: 1, 1
+  index: -1
+d2
+  rotate: false
+  xy: 436, 74
+  size: 83, 48
+  orig: 85, 50
+  offset: 1, 1
+  index: -1
+d3
+  rotate: true
+  xy: 663, 75
+  size: 82, 46
+  orig: 84, 48
+  offset: 1, 1
+  index: -1
+d4
+  rotate: true
+  xy: 521, 53
+  size: 69, 48
+  orig: 71, 50
+  offset: 1, 1
+  index: -1
+e
+  rotate: true
+  xy: 711, 213
+  size: 548, 689
+  orig: 553, 692
+  offset: 1, 1
+  index: -1
+f1
+  rotate: true
+  xy: 2, 159
+  size: 35, 705
+  orig: 37, 707
+  offset: 1, 1
+  index: -1
+f2
+  rotate: true
+  xy: 711, 5
+  size: 206, 565
+  orig: 210, 567
+  offset: 3, 1
+  index: -1
+g1
+  rotate: true
+  xy: 436, 124
+  size: 33, 182
+  orig: 35, 187
+  offset: 1, 4
+  index: -1
+g2
+  rotate: false
+  xy: 2, 7
+  size: 204, 150
+  orig: 206, 156
+  offset: 1, 4
+  index: -1
+guang
+  rotate: false
+  xy: 620, 2
+  size: 41, 155
+  orig: 47, 159
+  offset: 4, 3
+  index: -1
+s
+  rotate: false
+  xy: 1278, 87
+  size: 106, 124
+  orig: 108, 126
+  offset: 1, 1
+  index: -1
+s2
+  rotate: false
+  xy: 1278, 3
+  size: 87, 82
+  orig: 87, 82
+  offset: 0, 0
+  index: -1
+zhuan
+  rotate: false
+  xy: 208, 66
+  size: 120, 91
+  orig: 120, 92
+  offset: 0, 1
+  index: -1

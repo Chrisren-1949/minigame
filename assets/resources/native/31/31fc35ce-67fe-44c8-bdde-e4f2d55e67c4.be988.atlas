@@ -1,0 +1,69 @@
+
+room_2_12.png
+size: 505,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hezi
+  rotate: false
+  xy: 291, 7
+  size: 49, 26
+  orig: 51, 28
+  offset: 1, 1
+  index: -1
+jiazi_ban
+  rotate: false
+  xy: 2, 2
+  size: 194, 18
+  orig: 196, 21
+  offset: 1, 2
+  index: -1
+jiazi_s
+  rotate: false
+  xy: 2, 22
+  size: 200, 72
+  orig: 208, 94
+  offset: 7, 21
+  index: -1
+jiazi_tui_1
+  rotate: false
+  xy: 467, 47
+  size: 36, 47
+  orig: 38, 49
+  offset: 1, 1
+  index: -1
+jiazi_tui_2
+  rotate: false
+  xy: 467, 4
+  size: 34, 41
+  orig: 36, 43
+  offset: 1, 1
+  index: -1
+lazhu
+  rotate: true
+  xy: 378, 2
+  size: 34, 83
+  orig: 36, 85
+  offset: 1, 1
+  index: -1
+lazhu_s
+  rotate: true
+  xy: 204, 14
+  size: 80, 85
+  orig: 89, 106
+  offset: 5, 1
+  index: -1
+xiangpian
+  rotate: true
+  xy: 378, 38
+  size: 56, 87
+  orig: 58, 89
+  offset: 1, 1
+  index: -1
+xiangpian_s
+  rotate: true
+  xy: 291, 35
+  size: 59, 85
+  orig: 66, 104
+  offset: 3, 1
+  index: -1

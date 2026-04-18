@@ -1,0 +1,34 @@
+
+room_5_17.png
+size: 911,756
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 4
+  size: 750, 603
+  orig: 752, 605
+  offset: 1, 1
+  index: -1
+b
+  rotate: true
+  xy: 607, 2
+  size: 752, 165
+  orig: 752, 165
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 774, 590
+  size: 135, 164
+  orig: 137, 170
+  offset: 1, 3
+  index: -1
+d
+  rotate: false
+  xy: 774, 504
+  size: 84, 84
+  orig: 92, 92
+  offset: 4, 4
+  index: -1

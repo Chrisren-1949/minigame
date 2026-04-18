@@ -1,0 +1,118 @@
+
+room_1_5.png
+size: 1687,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chentu
+  rotate: false
+  xy: 1230, 45
+  size: 120, 168
+  orig: 152, 210
+  offset: 17, 17
+  index: -1
+diaoding
+  rotate: false
+  xy: 2, 118
+  size: 752, 149
+  orig: 756, 162
+  offset: 2, 12
+  index: -1
+jiu_qiangzhi1
+  rotate: false
+  xy: 704, 29
+  size: 50, 87
+  orig: 52, 90
+  offset: 1, 2
+  index: -1
+jiu_qiangzhi2
+  rotate: true
+  xy: 1452, 26
+  size: 187, 86
+  orig: 197, 92
+  offset: 6, 5
+  index: -1
+jiu_xiangkuang1
+  rotate: true
+  xy: 1540, 33
+  size: 79, 137
+  orig: 81, 139
+  offset: 1, 1
+  index: -1
+jiu_xiangkuang1_yingzi
+  rotate: false
+  xy: 1540, 114
+  size: 81, 141
+  orig: 89, 147
+  offset: 4, 4
+  index: -1
+jiu_xiangkuang2
+  rotate: false
+  xy: 1352, 44
+  size: 98, 169
+  orig: 102, 171
+  offset: 3, 1
+  index: -1
+jiu_xiangkuang2_yingzi
+  rotate: false
+  xy: 1584, 257
+  size: 96, 174
+  orig: 103, 180
+  offset: 2, 2
+  index: -1
+juan
+  rotate: true
+  xy: 1623, 116
+  size: 139, 62
+  orig: 141, 64
+  offset: 1, 1
+  index: -1
+xin_qiangzhi1
+  rotate: true
+  xy: 810, 304
+  size: 127, 772
+  orig: 129, 774
+  offset: 1, 1
+  index: -1
+xin_qiangzhi2
+  rotate: true
+  xy: 2, 19
+  size: 97, 700
+  orig: 99, 702
+  offset: 1, 1
+  index: -1
+xin_qiangzhi3
+  rotate: true
+  xy: 2, 269
+  size: 162, 806
+  orig: 164, 808
+  offset: 1, 1
+  index: -1
+xin_qiangzhi4
+  rotate: false
+  xy: 756, 2
+  size: 157, 265
+  orig: 159, 267
+  offset: 1, 1
+  index: -1
+xin_qiangzhi5
+  rotate: false
+  xy: 1072, 17
+  size: 156, 285
+  orig: 158, 287
+  offset: 1, 1
+  index: -1
+xin_qiangzhi6
+  rotate: true
+  xy: 1230, 215
+  size: 87, 290
+  orig: 89, 292
+  offset: 1, 1
+  index: -1
+xin_xiangkuang
+  rotate: false
+  xy: 915, 2
+  size: 155, 300
+  orig: 159, 305
+  offset: 1, 4
+  index: -1

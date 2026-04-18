@@ -1,0 +1,195 @@
+
+room_1_1.png
+size: 1426,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+凳子
+  rotate: true
+  xy: 1231, 211
+  size: 145, 164
+  orig: 145, 164
+  offset: 0, 0
+  index: -1
+凳子影子
+  rotate: true
+  xy: 1231, 358
+  size: 163, 162
+  orig: 172, 164
+  offset: 5, 1
+  index: -1
+叶子1
+  rotate: true
+  xy: 1365, 9
+  size: 32, 14
+  orig: 34, 16
+  offset: 1, 1
+  index: -1
+叶子2
+  rotate: true
+  xy: 1400, 2
+  size: 28, 20
+  orig: 31, 22
+  offset: 2, 1
+  index: -1
+叶子3
+  rotate: true
+  xy: 1401, 32
+  size: 31, 22
+  orig: 33, 24
+  offset: 1, 1
+  index: -1
+叶子4
+  rotate: true
+  xy: 1412, 472
+  size: 19, 12
+  orig: 21, 14
+  offset: 1, 1
+  index: -1
+叶子5
+  rotate: true
+  xy: 1407, 365
+  size: 29, 14
+  orig: 31, 16
+  offset: 1, 1
+  index: -1
+叶子6
+  rotate: true
+  xy: 1397, 333
+  size: 27, 15
+  orig: 29, 17
+  offset: 1, 1
+  index: -1
+土块1
+  rotate: false
+  xy: 1381, 5
+  size: 13, 10
+  orig: 15, 12
+  offset: 1, 1
+  index: -1
+土块2
+  rotate: true
+  xy: 1381, 17
+  size: 24, 17
+  orig: 27, 19
+  offset: 1, 1
+  index: -1
+土块3
+  rotate: true
+  xy: 1395, 493
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+地叶1
+  rotate: true
+  xy: 1395, 362
+  size: 32, 10
+  orig: 35, 12
+  offset: 1, 1
+  index: -1
+地叶2
+  rotate: false
+  xy: 1365, 43
+  size: 34, 20
+  orig: 39, 22
+  offset: 3, 1
+  index: -1
+尘土
+  rotate: true
+  xy: 1195, 6
+  size: 120, 168
+  orig: 152, 210
+  offset: 17, 17
+  index: -1
+弹簧
+  rotate: true
+  xy: 349, 13
+  size: 54, 84
+  orig: 54, 84
+  offset: 0, 0
+  index: -1
+枯枝
+  rotate: true
+  xy: 352, 69
+  size: 65, 110
+  orig: 65, 110
+  offset: 0, 0
+  index: -1
+沙发坐
+  rotate: false
+  xy: 562, 194
+  size: 667, 327
+  orig: 671, 332
+  offset: 3, 1
+  index: -1
+沙发影子
+  rotate: false
+  xy: 562, 22
+  size: 631, 170
+  orig: 662, 187
+  offset: 1, 10
+  index: -1
+沙发腿
+  rotate: false
+  xy: 123, 43
+  size: 98, 91
+  orig: 100, 93
+  offset: 1, 1
+  index: -1
+沙发靠背
+  rotate: false
+  xy: 2, 136
+  size: 558, 385
+  orig: 558, 385
+  offset: 0, 0
+  index: -1
+灰尘
+  rotate: false
+  xy: 1195, 128
+  size: 217, 64
+  orig: 225, 69
+  offset: 4, 3
+  index: -1
+砖头1
+  rotate: false
+  xy: 223, 69
+  size: 127, 65
+  orig: 129, 67
+  offset: 1, 1
+  index: -1
+砖头2
+  rotate: true
+  xy: 464, 8
+  size: 126, 64
+  orig: 128, 66
+  offset: 1, 1
+  index: -1
+砖头3
+  rotate: false
+  xy: 223, 3
+  size: 124, 64
+  orig: 126, 66
+  offset: 1, 1
+  index: -1
+花盆1
+  rotate: false
+  xy: 2, 35
+  size: 119, 99
+  orig: 121, 101
+  offset: 1, 1
+  index: -1
+花盆2
+  rotate: true
+  xy: 1365, 65
+  size: 61, 55
+  orig: 63, 57
+  offset: 1, 1
+  index: -1
+花盆影子
+  rotate: true
+  xy: 1395, 396
+  size: 95, 15
+  orig: 103, 17
+  offset: 4, 1
+  index: -1

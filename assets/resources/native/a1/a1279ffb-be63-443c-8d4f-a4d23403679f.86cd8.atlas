@@ -1,0 +1,55 @@
+
+room_5_31a.png
+size: 349,93
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 10
+  size: 144, 81
+  orig: 146, 83
+  offset: 1, 1
+  index: -1
+a1
+  rotate: true
+  xy: 2, 2
+  size: 6, 25
+  orig: 8, 27
+  offset: 1, 1
+  index: -1
+a2
+  rotate: true
+  xy: 287, 2
+  size: 17, 20
+  orig: 19, 24
+  offset: 1, 1
+  index: -1
+a3
+  rotate: false
+  xy: 309, 5
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+b
+  rotate: true
+  xy: 148, 3
+  size: 88, 80
+  orig: 98, 90
+  offset: 9, 1
+  index: -1
+c
+  rotate: false
+  xy: 287, 21
+  size: 60, 70
+  orig: 62, 72
+  offset: 1, 1
+  index: -1
+d
+  rotate: false
+  xy: 230, 3
+  size: 55, 88
+  orig: 57, 90
+  offset: 1, 1
+  index: -1

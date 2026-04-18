@@ -1,0 +1,104 @@
+
+room_2_3.png
+size: 1686,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lantu_1
+  rotate: false
+  xy: 802, 209
+  size: 357, 197
+  orig: 357, 197
+  offset: 0, 0
+  index: -1
+lantu_1_s
+  rotate: false
+  xy: 1496, 51
+  size: 115, 108
+  orig: 125, 117
+  offset: 4, 4
+  index: -1
+lantu_2
+  rotate: true
+  xy: 1316, 14
+  size: 187, 178
+  orig: 189, 192
+  offset: 1, 13
+  index: -1
+lantu_2_s
+  rotate: false
+  xy: 662, 18
+  size: 138, 164
+  orig: 146, 169
+  offset: 4, 1
+  index: -1
+lantu_3
+  rotate: false
+  xy: 1103, 10
+  size: 211, 191
+  orig: 213, 193
+  offset: 1, 1
+  index: -1
+lantu_4
+  rotate: false
+  xy: 1496, 161
+  size: 178, 118
+  orig: 180, 120
+  offset: 1, 1
+  index: -1
+lantu_5
+  rotate: false
+  xy: 231, 32
+  size: 193, 140
+  orig: 193, 140
+  offset: 0, 0
+  index: -1
+lantu_5_s
+  rotate: false
+  xy: 2, 26
+  size: 227, 146
+  orig: 227, 146
+  offset: 0, 0
+  index: -1
+lantu_6
+  rotate: false
+  xy: 1476, 281
+  size: 208, 125
+  orig: 210, 127
+  offset: 1, 1
+  index: -1
+lantu_6_s
+  rotate: false
+  xy: 426, 54
+  size: 234, 128
+  orig: 246, 144
+  offset: 10, 7
+  index: -1
+lantu_7
+  rotate: false
+  xy: 802, 2
+  size: 299, 205
+  orig: 314, 216
+  offset: 9, 8
+  index: -1
+zhuo_down
+  rotate: false
+  xy: 1161, 203
+  size: 313, 203
+  orig: 315, 205
+  offset: 1, 1
+  index: -1
+zhuo_mian
+  rotate: false
+  xy: 421, 184
+  size: 379, 222
+  orig: 381, 224
+  offset: 1, 1
+  index: -1
+zhuo_s
+  rotate: false
+  xy: 2, 174
+  size: 417, 232
+  orig: 437, 252
+  offset: 10, 10
+  index: -1

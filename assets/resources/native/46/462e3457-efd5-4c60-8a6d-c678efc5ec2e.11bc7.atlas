@@ -1,0 +1,90 @@
+
+room_2_26.png
+size: 1759,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bang1
+  rotate: true
+  xy: 1577, 7
+  size: 405, 180
+  orig: 405, 180
+  offset: 0, 0
+  index: -1
+bang2
+  rotate: false
+  xy: 657, 3
+  size: 246, 170
+  orig: 246, 170
+  offset: 0, 0
+  index: -1
+bei
+  rotate: false
+  xy: 1273, 83
+  size: 302, 329
+  orig: 304, 331
+  offset: 1, 1
+  index: -1
+bei_s1
+  rotate: false
+  xy: 905, 81
+  size: 267, 92
+  orig: 277, 100
+  offset: 3, 1
+  index: -1
+bei_s2
+  rotate: true
+  xy: 905, 6
+  size: 36, 272
+  orig: 44, 292
+  offset: 4, 13
+  index: -1
+bei_s3
+  rotate: true
+  xy: 1174, 44
+  size: 37, 283
+  orig: 44, 299
+  offset: 3, 12
+  index: -1
+chuang_s
+  rotate: false
+  xy: 2, 168
+  size: 634, 244
+  orig: 665, 279
+  offset: 4, 18
+  index: -1
+dian
+  rotate: false
+  xy: 638, 175
+  size: 633, 237
+  orig: 633, 237
+  offset: 0, 0
+  index: -1
+gang1
+  rotate: false
+  xy: 2, 2
+  size: 405, 164
+  orig: 407, 166
+  offset: 1, 1
+  index: -1
+gang2
+  rotate: false
+  xy: 409, 14
+  size: 246, 152
+  orig: 250, 154
+  offset: 3, 1
+  index: -1
+tui2
+  rotate: false
+  xy: 1238, 129
+  size: 27, 44
+  orig: 29, 46
+  offset: 1, 1
+  index: -1
+tui3
+  rotate: true
+  xy: 1174, 140
+  size: 33, 62
+  orig: 38, 66
+  offset: 4, 1
+  index: -1

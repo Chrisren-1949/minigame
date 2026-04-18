@@ -1,0 +1,104 @@
+
+room_1_11b.png
+size: 1115,301
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1zhuo
+  rotate: false
+  xy: 105, 8
+  size: 341, 291
+  orig: 343, 293
+  offset: 1, 1
+  index: -1
+1zhuoying
+  rotate: true
+  xy: 448, 16
+  size: 283, 86
+  orig: 285, 88
+  offset: 1, 1
+  index: -1
+2zhuo
+  rotate: false
+  xy: 536, 85
+  size: 341, 214
+  orig: 343, 216
+  offset: 1, 1
+  index: -1
+2zhuoying
+  rotate: true
+  xy: 2, 5
+  size: 294, 101
+  orig: 296, 103
+  offset: 1, 1
+  index: -1
+bei
+  rotate: false
+  xy: 636, 11
+  size: 99, 72
+  orig: 101, 74
+  offset: 1, 1
+  index: -1
+beiying
+  rotate: true
+  xy: 785, 13
+  size: 70, 31
+  orig: 72, 33
+  offset: 1, 1
+  index: -1
+hu
+  rotate: true
+  xy: 879, 110
+  size: 189, 179
+  orig: 191, 181
+  offset: 1, 1
+  index: -1
+huying
+  rotate: true
+  xy: 1060, 154
+  size: 145, 53
+  orig: 147, 55
+  offset: 1, 1
+  index: -1
+liushui1
+  rotate: false
+  xy: 536, 6
+  size: 98, 77
+  orig: 98, 77
+  offset: 0, 0
+  index: -1
+liushui2
+  rotate: false
+  xy: 818, 15
+  size: 96, 68
+  orig: 99, 71
+  offset: 3, 3
+  index: -1
+ningmeng1
+  rotate: true
+  xy: 1046, 16
+  size: 92, 66
+  orig: 97, 68
+  offset: 1, 1
+  index: -1
+ningmeng2
+  rotate: true
+  xy: 1060, 114
+  size: 38, 25
+  orig: 40, 27
+  offset: 1, 1
+  index: -1
+shui1
+  rotate: false
+  xy: 916, 2
+  size: 128, 106
+  orig: 128, 106
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: true
+  xy: 737, 12
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+room_5_36.png
+size: 443,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 5
+  size: 213, 182
+  orig: 215, 187
+  offset: 1, 4
+  index: -1
+1s
+  rotate: true
+  xy: 262, 22
+  size: 196, 76
+  orig: 210, 90
+  offset: 9, 5
+  index: -1
+2
+  rotate: true
+  xy: 340, 13
+  size: 121, 47
+  orig: 126, 53
+  offset: 4, 5
+  index: -1
+2s
+  rotate: true
+  xy: 186, 2
+  size: 216, 74
+  orig: 238, 78
+  offset: 13, 1
+  index: -1
+3
+  rotate: false
+  xy: 340, 136
+  size: 101, 82
+  orig: 103, 84
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 389, 21
+  size: 113, 44
+  orig: 115, 46
+  offset: 1, 1
+  index: -1

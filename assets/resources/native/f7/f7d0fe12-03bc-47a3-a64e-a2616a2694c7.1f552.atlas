@@ -1,0 +1,34 @@
+
+room_1_6.png
+size: 206,140
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gongjuxiang
+  rotate: false
+  xy: 2, 18
+  size: 138, 120
+  orig: 140, 140
+  offset: 1, 19
+  index: -1
+shengzi
+  rotate: true
+  xy: 142, 35
+  size: 103, 39
+  orig: 105, 41
+  offset: 1, 1
+  index: -1
+yingzi1
+  rotate: false
+  xy: 2, 2
+  size: 161, 14
+  orig: 164, 15
+  offset: 1, 1
+  index: -1
+yingzi2
+  rotate: true
+  xy: 183, 50
+  size: 88, 21
+  orig: 94, 25
+  offset: 0, 1
+  index: -1

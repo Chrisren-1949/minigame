@@ -1,0 +1,27 @@
+
+room_3_7.png
+size: 440,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 263, 108
+  size: 175, 146
+  orig: 175, 146
+  offset: 0, 0
+  index: -1
+2_1
+  rotate: false
+  xy: 2, 3
+  size: 259, 251
+  orig: 264, 257
+  offset: 0, 5
+  index: -1
+2_2
+  rotate: false
+  xy: 263, 2
+  size: 156, 104
+  orig: 157, 115
+  offset: 0, 7
+  index: -1

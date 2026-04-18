@@ -1,0 +1,55 @@
+
+room_2_8.png
+size: 339,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu
+  rotate: false
+  xy: 2, 129
+  size: 177, 128
+  orig: 177, 128
+  offset: 0, 0
+  index: -1
+bu_s
+  rotate: false
+  xy: 2, 5
+  size: 167, 122
+  orig: 178, 128
+  offset: 7, 2
+  index: -1
+chuangdan
+  rotate: true
+  xy: 2, 389
+  size: 624, 334
+  orig: 624, 334
+  offset: 0, 0
+  index: -1
+zhentou_1
+  rotate: true
+  xy: 209, 220
+  size: 167, 121
+  orig: 169, 123
+  offset: 1, 1
+  index: -1
+zhentou_1_s
+  rotate: false
+  xy: 2, 259
+  size: 205, 128
+  orig: 233, 153
+  offset: 13, 12
+  index: -1
+zhentou_2
+  rotate: true
+  xy: 171, 2
+  size: 125, 81
+  orig: 127, 83
+  offset: 1, 1
+  index: -1
+zhentou_2_s
+  rotate: false
+  xy: 181, 135
+  size: 156, 83
+  orig: 181, 103
+  offset: 15, 7
+  index: -1

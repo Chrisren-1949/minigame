@@ -1,0 +1,160 @@
+
+room_4_17.png
+size: 1644,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 10
+  size: 347, 185
+  orig: 349, 187
+  offset: 1, 1
+  index: -1
+n1
+  rotate: true
+  xy: 1029, 132
+  size: 145, 148
+  orig: 147, 150
+  offset: 1, 1
+  index: -1
+n2
+  rotate: true
+  xy: 1309, 359
+  size: 178, 169
+  orig: 180, 171
+  offset: 1, 1
+  index: -1
+n3
+  rotate: true
+  xy: 1410, 45
+  size: 312, 224
+  orig: 314, 226
+  offset: 1, 1
+  index: -1
+n4
+  rotate: false
+  xy: 1129, 359
+  size: 178, 178
+  orig: 180, 180
+  offset: 1, 1
+  index: -1
+n5
+  rotate: false
+  xy: 320, 206
+  size: 368, 39
+  orig: 368, 39
+  offset: 0, 0
+  index: -1
+n6
+  rotate: false
+  xy: 530, 2
+  size: 68, 61
+  orig: 70, 63
+  offset: 1, 1
+  index: -1
+n_s
+  rotate: false
+  xy: 690, 18
+  size: 337, 234
+  orig: 343, 242
+  offset: 5, 5
+  index: -1
+o1
+  rotate: true
+  xy: 530, 65
+  size: 139, 156
+  orig: 141, 158
+  offset: 1, 1
+  index: -1
+o2
+  rotate: false
+  xy: 1480, 363
+  size: 162, 174
+  orig: 164, 177
+  offset: 1, 2
+  index: -1
+o3
+  rotate: true
+  xy: 1182, 36
+  size: 321, 226
+  orig: 323, 228
+  offset: 1, 1
+  index: -1
+o4
+  rotate: true
+  xy: 351, 21
+  size: 183, 177
+  orig: 185, 179
+  offset: 1, 1
+  index: -1
+o5
+  rotate: false
+  xy: 320, 247
+  size: 356, 41
+  orig: 358, 43
+  offset: 1, 1
+  index: -1
+o_s
+  rotate: false
+  xy: 320, 290
+  size: 361, 247
+  orig: 370, 257
+  offset: 6, 7
+  index: -1
+sm1
+  rotate: true
+  xy: 2, 197
+  size: 340, 316
+  orig: 382, 354
+  offset: 29, 13
+  index: -1
+sm2
+  rotate: false
+  xy: 683, 341
+  size: 444, 196
+  orig: 470, 222
+  offset: 13, 17
+  index: -1
+z1
+  rotate: true
+  xy: 683, 293
+  size: 46, 189
+  orig: 48, 191
+  offset: 1, 1
+  index: -1
+z2
+  rotate: true
+  xy: 954, 279
+  size: 60, 226
+  orig: 62, 228
+  offset: 1, 1
+  index: -1
+z3
+  rotate: true
+  xy: 794, 254
+  size: 37, 88
+  orig: 39, 90
+  offset: 1, 1
+  index: -1
+z4
+  rotate: true
+  xy: 678, 254
+  size: 34, 114
+  orig: 36, 116
+  offset: 1, 1
+  index: -1
+z5
+  rotate: true
+  xy: 874, 302
+  size: 37, 78
+  orig: 39, 80
+  offset: 1, 1
+  index: -1
+z6
+  rotate: false
+  xy: 1029, 35
+  size: 151, 95
+  orig: 153, 97
+  offset: 1, 1
+  index: -1

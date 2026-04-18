@@ -1,0 +1,34 @@
+
+room_2_21.png
+size: 614,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuazi
+  rotate: true
+  xy: 538, 69
+  size: 77, 74
+  orig: 79, 76
+  offset: 1, 1
+  index: -1
+xin_chuang
+  rotate: true
+  xy: 2, 2
+  size: 144, 289
+  orig: 146, 291
+  offset: 1, 1
+  index: -1
+youchuang
+  rotate: true
+  xy: 293, 14
+  size: 51, 249
+  orig: 54, 251
+  offset: 2, 1
+  index: -1
+zuochuang
+  rotate: true
+  xy: 293, 67
+  size: 79, 243
+  orig: 85, 245
+  offset: 3, 1
+  index: -1

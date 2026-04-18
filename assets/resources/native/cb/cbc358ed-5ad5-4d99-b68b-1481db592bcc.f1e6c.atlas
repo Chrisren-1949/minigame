@@ -1,0 +1,195 @@
+
+room_1_7.png
+size: 2033,632
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chentu
+  rotate: false
+  xy: 1110, 120
+  size: 120, 168
+  orig: 152, 210
+  offset: 17, 17
+  index: -1
+diaoding
+  rotate: true
+  xy: 1907, 425
+  size: 205, 124
+  orig: 208, 144
+  offset: 1, 19
+  index: -1
+geban
+  rotate: false
+  xy: 895, 17
+  size: 213, 270
+  orig: 219, 276
+  offset: 0, 6
+  index: -1
+geban2
+  rotate: true
+  xy: 1012, 289
+  size: 141, 61
+  orig: 143, 66
+  offset: 1, 4
+  index: -1
+hezi1
+  rotate: false
+  xy: 561, 5
+  size: 126, 114
+  orig: 128, 116
+  offset: 1, 1
+  index: -1
+hezi2
+  rotate: true
+  xy: 1232, 126
+  size: 90, 66
+  orig: 92, 68
+  offset: 1, 1
+  index: -1
+hezi3
+  rotate: true
+  xy: 1012, 542
+  size: 88, 91
+  orig: 90, 105
+  offset: 1, 13
+  index: -1
+jiugui
+  rotate: true
+  xy: 1110, 432
+  size: 198, 795
+  orig: 202, 795
+  offset: 0, 0
+  index: -1
+men
+  rotate: true
+  xy: 1300, 53
+  size: 163, 688
+  orig: 166, 688
+  offset: 2, 0
+  index: -1
+scg_sunshine
+  rotate: false
+  xy: 225, 121
+  size: 353, 509
+  orig: 375, 546
+  offset: 0, 37
+  index: -1
+xichenqi
+  rotate: false
+  xy: 580, 252
+  size: 156, 378
+  orig: 195, 391
+  offset: 6, 13
+  index: -1
+xin_gui1
+  rotate: false
+  xy: 144, 3
+  size: 178, 70
+  orig: 184, 75
+  offset: 5, 4
+  index: -1
+xin_gui10
+  rotate: false
+  xy: 58, 75
+  size: 165, 555
+  orig: 166, 555
+  offset: 0, 0
+  index: -1
+xin_gui11
+  rotate: false
+  xy: 2, 59
+  size: 54, 571
+  orig: 57, 573
+  offset: 2, 1
+  index: -1
+xin_gui12
+  rotate: true
+  xy: 1012, 458
+  size: 82, 90
+  orig: 89, 92
+  offset: 3, 1
+  index: -1
+xin_gui2
+  rotate: true
+  xy: 1246, 311
+  size: 112, 773
+  orig: 114, 776
+  offset: 1, 1
+  index: -1
+xin_gui3
+  rotate: true
+  xy: 1246, 218
+  size: 91, 735
+  orig: 95, 737
+  offset: 2, 1
+  index: -1
+xin_gui4
+  rotate: false
+  xy: 2, 2
+  size: 140, 55
+  orig: 142, 57
+  offset: 1, 1
+  index: -1
+xin_gui4yingzi
+  rotate: true
+  xy: 580, 129
+  size: 121, 55
+  orig: 128, 67
+  offset: 3, 3
+  index: -1
+xin_gui5
+  rotate: false
+  xy: 1110, 6
+  size: 172, 112
+  orig: 174, 114
+  offset: 1, 1
+  index: -1
+xin_gui6
+  rotate: false
+  xy: 738, 289
+  size: 272, 341
+  orig: 277, 343
+  offset: 4, 1
+  index: -1
+xin_gui7
+  rotate: true
+  xy: 324, 2
+  size: 117, 70
+  orig: 121, 74
+  offset: 3, 3
+  index: -1
+xin_gui8
+  rotate: true
+  xy: 689, 4
+  size: 246, 204
+  orig: 248, 206
+  offset: 1, 1
+  index: -1
+xin_gui9
+  rotate: true
+  xy: 1075, 290
+  size: 140, 169
+  orig: 142, 171
+  offset: 1, 1
+  index: -1
+yijia
+  rotate: true
+  xy: 637, 140
+  size: 110, 36
+  orig: 112, 38
+  offset: 1, 1
+  index: -1
+yijia1
+  rotate: true
+  xy: 396, 3
+  size: 116, 76
+  orig: 118, 78
+  offset: 1, 1
+  index: -1
+yijia2
+  rotate: true
+  xy: 474, 4
+  size: 115, 85
+  orig: 117, 87
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,90 @@
+
+room_3_14.png
+size: 344,541
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 60, 153
+  size: 69, 69
+  orig: 76, 75
+  offset: 4, 1
+  index: -1
+10
+  rotate: true
+  xy: 283, 135
+  size: 166, 57
+  orig: 168, 59
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 2, 36
+  size: 116, 47
+  orig: 118, 49
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 2, 87
+  size: 62, 41
+  orig: 64, 43
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 130
+  size: 92, 56
+  orig: 102, 63
+  offset: 6, 1
+  index: -1
+3
+  rotate: false
+  xy: 120, 25
+  size: 89, 58
+  orig: 94, 66
+  offset: 4, 1
+  index: -1
+4
+  rotate: false
+  xy: 215, 2
+  size: 118, 116
+  orig: 122, 121
+  offset: 3, 1
+  index: -1
+5
+  rotate: true
+  xy: 2, 224
+  size: 115, 147
+  orig: 117, 151
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 298, 303
+  size: 236, 44
+  orig: 241, 49
+  offset: 4, 4
+  index: -1
+7
+  rotate: false
+  xy: 2, 341
+  size: 294, 198
+  orig: 296, 200
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 151, 85
+  size: 254, 62
+  orig: 256, 65
+  offset: 1, 2
+  index: -1
+9
+  rotate: true
+  xy: 215, 120
+  size: 219, 66
+  orig: 222, 68
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+room_4_5.png
+size: 1220,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a
+  rotate: false
+  xy: 2, 95
+  size: 393, 320
+  orig: 393, 320
+  offset: 0, 0
+  index: -1
+1b
+  rotate: false
+  xy: 397, 155
+  size: 419, 260
+  orig: 419, 260
+  offset: 0, 0
+  index: -1
+1s
+  rotate: false
+  xy: 397, 17
+  size: 414, 136
+  orig: 464, 167
+  offset: 26, 16
+  index: -1
+2
+  rotate: false
+  xy: 813, 12
+  size: 138, 83
+  orig: 140, 85
+  offset: 1, 1
+  index: -1
+2s
+  rotate: true
+  xy: 1165, 271
+  size: 144, 53
+  orig: 161, 67
+  offset: 10, 7
+  index: -1
+3
+  rotate: false
+  xy: 953, 19
+  size: 129, 76
+  orig: 131, 78
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 818, 97
+  size: 318, 345
+  orig: 318, 345
+  offset: 0, 0
+  index: -1
+4s1
+  rotate: false
+  xy: 1084, 18
+  size: 125, 77
+  orig: 134, 89
+  offset: 4, 7
+  index: -1
+4s2
+  rotate: true
+  xy: 196, 2
+  size: 91, 149
+  orig: 103, 156
+  offset: 4, 5
+  index: -1
+4s3
+  rotate: true
+  xy: 2, 5
+  size: 88, 192
+  orig: 106, 203
+  offset: 13, 7
+  index: -1

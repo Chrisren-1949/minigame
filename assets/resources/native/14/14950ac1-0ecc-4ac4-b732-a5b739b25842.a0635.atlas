@@ -1,0 +1,41 @@
+
+room_1_2.png
+size: 920,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+尘土
+  rotate: false
+  xy: 675, 62
+  size: 120, 168
+  orig: 152, 210
+  offset: 17, 17
+  index: -1
+标签
+  rotate: false
+  xy: 797, 116
+  size: 121, 114
+  orig: 121, 114
+  offset: 0, 0
+  index: -1
+皮箱1
+  rotate: false
+  xy: 368, 2
+  size: 305, 456
+  orig: 305, 456
+  offset: 0, 0
+  index: -1
+皮箱2
+  rotate: true
+  xy: 2, 10
+  size: 448, 364
+  orig: 448, 364
+  offset: 0, 0
+  index: -1
+蜘蛛网
+  rotate: false
+  xy: 675, 232
+  size: 234, 226
+  orig: 234, 226
+  offset: 0, 0
+  index: -1

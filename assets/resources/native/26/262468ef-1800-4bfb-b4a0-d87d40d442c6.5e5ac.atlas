@@ -1,0 +1,27 @@
+
+room_3_2.png
+size: 516,356
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 295, 160
+  size: 206, 194
+  orig: 208, 196
+  offset: 1, 1
+  index: -1
+1_s
+  rotate: false
+  xy: 295, 30
+  size: 219, 128
+  orig: 238, 137
+  offset: 9, 4
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 352, 291
+  orig: 354, 295
+  offset: 1, 1
+  index: -1

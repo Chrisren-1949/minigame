@@ -1,0 +1,62 @@
+
+room_2_1.png
+size: 167,493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gunzi
+  rotate: false
+  xy: 2, 400
+  size: 158, 91
+  orig: 160, 93
+  offset: 1, 1
+  index: -1
+gunzi_s
+  rotate: true
+  xy: 2, 2
+  size: 170, 95
+  orig: 186, 103
+  offset: 9, 7
+  index: -1
+jiaodai
+  rotate: true
+  xy: 99, 95
+  size: 77, 56
+  orig: 79, 58
+  offset: 1, 1
+  index: -1
+jiaodai_1
+  rotate: true
+  xy: 129, 241
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+jiaodai_2
+  rotate: false
+  xy: 129, 211
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+jiaodai_s
+  rotate: true
+  xy: 99, 12
+  size: 81, 50
+  orig: 108, 75
+  offset: 12, 15
+  index: -1
+youqitong
+  rotate: true
+  xy: 2, 174
+  size: 111, 125
+  orig: 113, 127
+  offset: 1, 1
+  index: -1
+youqitong_s
+  rotate: false
+  xy: 2, 287
+  size: 147, 111
+  orig: 172, 137
+  offset: 10, 13
+  index: -1

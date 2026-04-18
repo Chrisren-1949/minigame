@@ -1,0 +1,27 @@
+
+room_2_28.png
+size: 822,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaodian
+  rotate: false
+  xy: 368, 13
+  size: 294, 246
+  orig: 321, 265
+  offset: 26, 18
+  index: -1
+shu
+  rotate: true
+  xy: 664, 10
+  size: 249, 156
+  orig: 257, 169
+  offset: 7, 12
+  index: -1
+zuodian
+  rotate: false
+  xy: 2, 2
+  size: 364, 257
+  orig: 421, 281
+  offset: 48, 23
+  index: -1

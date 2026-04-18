@@ -1,0 +1,97 @@
+
+room_2_33.png
+size: 941,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: true
+  xy: 668, 63
+  size: 61, 37
+  orig: 63, 39
+  offset: 1, 1
+  index: -1
+bei_1
+  rotate: false
+  xy: 2, 23
+  size: 379, 230
+  orig: 379, 230
+  offset: 0, 0
+  index: -1
+bei_2
+  rotate: false
+  xy: 2, 255
+  size: 557, 272
+  orig: 557, 272
+  offset: 0, 0
+  index: -1
+ben
+  rotate: true
+  xy: 907, 460
+  size: 67, 32
+  orig: 69, 34
+  offset: 1, 1
+  index: -1
+kaodiao_1
+  rotate: false
+  xy: 552, 2
+  size: 114, 122
+  orig: 116, 125
+  offset: 1, 1
+  index: -1
+kaodiao_2
+  rotate: false
+  xy: 383, 111
+  size: 157, 142
+  orig: 160, 146
+  offset: 2, 3
+  index: -1
+kaozhen
+  rotate: false
+  xy: 383, 25
+  size: 167, 84
+  orig: 167, 84
+  offset: 0, 0
+  index: -1
+shu
+  rotate: true
+  xy: 907, 394
+  size: 64, 29
+  orig: 66, 31
+  offset: 1, 1
+  index: -1
+tanzi
+  rotate: false
+  xy: 561, 210
+  size: 344, 317
+  orig: 344, 317
+  offset: 0, 0
+  index: -1
+zhentou_1
+  rotate: true
+  xy: 833, 106
+  size: 102, 103
+  orig: 104, 107
+  offset: 1, 1
+  index: -1
+zhentou_2
+  rotate: true
+  xy: 708, 69
+  size: 139, 123
+  orig: 141, 125
+  offset: 1, 1
+  index: -1
+zhuo
+  rotate: false
+  xy: 542, 126
+  size: 164, 82
+  orig: 166, 84
+  offset: 1, 1
+  index: -1
+zhuo_s
+  rotate: false
+  xy: 707, 16
+  size: 185, 51
+  orig: 230, 63
+  offset: 29, 9
+  index: -1

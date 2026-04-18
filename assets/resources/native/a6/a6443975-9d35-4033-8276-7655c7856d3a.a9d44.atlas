@@ -1,0 +1,27 @@
+
+room_2_20.png
+size: 1488,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ditan
+  rotate: false
+  xy: 2, 6
+  size: 882, 358
+  orig: 890, 362
+  offset: 5, 3
+  index: -1
+juan
+  rotate: false
+  xy: 886, 94
+  size: 600, 270
+  orig: 640, 281
+  offset: 20, 10
+  index: -1
+quan
+  rotate: false
+  xy: 886, 2
+  size: 90, 90
+  orig: 92, 92
+  offset: 1, 1
+  index: -1

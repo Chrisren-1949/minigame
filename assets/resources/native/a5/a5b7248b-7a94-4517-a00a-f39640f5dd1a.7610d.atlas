@@ -1,0 +1,174 @@
+
+room_3_24.png
+size: 567,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 530, 40
+  size: 34, 34
+  orig: 45, 44
+  offset: 7, 4
+  index: -1
+n0
+  rotate: true
+  xy: 403, 99
+  size: 42, 35
+  orig: 44, 37
+  offset: 1, 1
+  index: -1
+n1
+  rotate: true
+  xy: 2, 10
+  size: 131, 93
+  orig: 131, 93
+  offset: 0, 0
+  index: -1
+n10
+  rotate: false
+  xy: 359, 26
+  size: 102, 67
+  orig: 105, 69
+  offset: 1, 1
+  index: -1
+n2
+  rotate: true
+  xy: 181, 69
+  size: 15, 176
+  orig: 17, 178
+  offset: 1, 1
+  index: -1
+n3
+  rotate: false
+  xy: 327, 10
+  size: 28, 57
+  orig: 30, 59
+  offset: 1, 1
+  index: -1
+n4
+  rotate: false
+  xy: 307, 95
+  size: 94, 46
+  orig: 99, 48
+  offset: 1, 1
+  index: -1
+n5
+  rotate: true
+  xy: 97, 48
+  size: 93, 82
+  orig: 95, 85
+  offset: 1, 1
+  index: -1
+n6
+  rotate: true
+  xy: 477, 2
+  size: 47, 51
+  orig: 49, 53
+  offset: 1, 1
+  index: -1
+n7
+  rotate: false
+  xy: 97, 3
+  size: 102, 43
+  orig: 104, 45
+  offset: 1, 1
+  index: -1
+n8
+  rotate: true
+  xy: 463, 51
+  size: 63, 58
+  orig: 65, 60
+  offset: 1, 1
+  index: -1
+n9
+  rotate: false
+  xy: 530, 3
+  size: 28, 35
+  orig: 30, 37
+  offset: 1, 1
+  index: -1
+o1
+  rotate: true
+  xy: 223, 4
+  size: 63, 102
+  orig: 63, 102
+  offset: 0, 0
+  index: -1
+o10
+  rotate: false
+  xy: 523, 107
+  size: 36, 34
+  orig: 38, 36
+  offset: 1, 1
+  index: -1
+o11
+  rotate: true
+  xy: 523, 76
+  size: 29, 42
+  orig: 31, 44
+  offset: 1, 1
+  index: -1
+o12
+  rotate: true
+  xy: 440, 116
+  size: 25, 58
+  orig: 27, 60
+  offset: 1, 1
+  index: -1
+o2
+  rotate: false
+  xy: 181, 86
+  size: 124, 55
+  orig: 126, 57
+  offset: 1, 1
+  index: -1
+o3
+  rotate: true
+  xy: 398, 13
+  size: 11, 38
+  orig: 13, 40
+  offset: 1, 1
+  index: -1
+o4
+  rotate: false
+  xy: 201, 14
+  size: 12, 39
+  orig: 14, 41
+  offset: 1, 1
+  index: -1
+o5
+  rotate: true
+  xy: 181, 55
+  size: 12, 40
+  orig: 14, 42
+  offset: 1, 1
+  index: -1
+o6
+  rotate: true
+  xy: 201, 3
+  size: 9, 17
+  orig: 12, 19
+  offset: 1, 1
+  index: -1
+o7
+  rotate: true
+  xy: 438, 13
+  size: 11, 37
+  orig: 15, 39
+  offset: 3, 1
+  index: -1
+o8
+  rotate: true
+  xy: 357, 12
+  size: 12, 39
+  orig: 14, 41
+  offset: 1, 1
+  index: -1
+o9
+  rotate: true
+  xy: 440, 104
+  size: 10, 21
+  orig: 12, 23
+  offset: 1, 1
+  index: -1

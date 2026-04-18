@@ -1,0 +1,27 @@
+
+room_5_30.png
+size: 1020,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 57
+  size: 701, 385
+  orig: 704, 386
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 389, 2
+  size: 598, 351
+  orig: 598, 351
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 389, 355
+  size: 629, 403
+  orig: 633, 403
+  offset: 4, 0
+  index: -1

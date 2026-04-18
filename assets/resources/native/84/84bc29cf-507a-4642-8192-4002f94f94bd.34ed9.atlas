@@ -1,0 +1,83 @@
+
+room_2_23.png
+size: 457,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng
+  rotate: false
+  xy: 381, 124
+  size: 74, 141
+  orig: 76, 143
+  offset: 1, 1
+  index: -1
+deng_s
+  rotate: true
+  xy: 381, 44
+  size: 78, 66
+  orig: 98, 83
+  offset: 13, 7
+  index: -1
+gui_1
+  rotate: true
+  xy: 169, 5
+  size: 73, 35
+  orig: 80, 37
+  offset: 3, 1
+  index: -1
+gui_2
+  rotate: false
+  xy: 2, 2
+  size: 165, 76
+  orig: 169, 78
+  offset: 3, 1
+  index: -1
+gui_3
+  rotate: false
+  xy: 206, 3
+  size: 100, 31
+  orig: 102, 33
+  offset: 1, 1
+  index: -1
+gui_4
+  rotate: false
+  xy: 217, 36
+  size: 162, 229
+  orig: 164, 232
+  offset: 1, 2
+  index: -1
+gui_s
+  rotate: true
+  xy: 2, 80
+  size: 185, 213
+  orig: 199, 234
+  offset: 4, 6
+  index: -1
+wu1
+  rotate: true
+  xy: 308, 4
+  size: 30, 32
+  orig: 32, 34
+  offset: 1, 1
+  index: -1
+wu2
+  rotate: true
+  xy: 342, 13
+  size: 21, 60
+  orig: 26, 62
+  offset: 4, 1
+  index: -1
+wu3
+  rotate: false
+  xy: 404, 26
+  size: 28, 16
+  orig: 30, 18
+  offset: 1, 1
+  index: -1
+wu4
+  rotate: true
+  xy: 434, 12
+  size: 30, 10
+  orig: 32, 12
+  offset: 1, 1
+  index: -1

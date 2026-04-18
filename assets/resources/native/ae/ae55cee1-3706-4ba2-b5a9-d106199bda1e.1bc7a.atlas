@@ -1,0 +1,48 @@
+
+room_2_14.png
+size: 1078,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuang_s
+  rotate: false
+  xy: 679, 364
+  size: 397, 142
+  orig: 408, 158
+  offset: 4, 10
+  index: -1
+chuangban
+  rotate: false
+  xy: 2, 2
+  size: 681, 208
+  orig: 681, 208
+  offset: 0, 0
+  index: -1
+chuangbang
+  rotate: true
+  xy: 685, 86
+  size: 276, 313
+  orig: 278, 315
+  offset: 1, 1
+  index: -1
+chuangdian
+  rotate: false
+  xy: 2, 212
+  size: 675, 294
+  orig: 683, 294
+  offset: 8, 0
+  index: -1
+tui_1
+  rotate: false
+  xy: 1000, 314
+  size: 26, 48
+  orig: 28, 50
+  offset: 1, 1
+  index: -1
+tui_2
+  rotate: false
+  xy: 1000, 274
+  size: 22, 38
+  orig: 24, 40
+  offset: 1, 1
+  index: -1

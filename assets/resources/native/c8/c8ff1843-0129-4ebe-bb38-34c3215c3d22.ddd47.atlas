@@ -1,0 +1,62 @@
+
+room_5_28.png
+size: 438,1045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: true
+  xy: 2, 221
+  size: 343, 317
+  orig: 347, 319
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 2, 566
+  size: 221, 477
+  orig: 223, 479
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 2, 2
+  size: 294, 217
+  orig: 299, 221
+  offset: 1, 1
+  index: -1
+b2
+  rotate: true
+  xy: 225, 748
+  size: 295, 161
+  orig: 297, 164
+  offset: 1, 2
+  index: -1
+c1
+  rotate: true
+  xy: 225, 582
+  size: 164, 158
+  orig: 166, 160
+  offset: 1, 1
+  index: -1
+c2
+  rotate: true
+  xy: 321, 438
+  size: 142, 115
+  orig: 145, 117
+  offset: 2, 1
+  index: -1
+c3
+  rotate: true
+  xy: 298, 70
+  size: 149, 117
+  orig: 151, 119
+  offset: 1, 1
+  index: -1
+c4
+  rotate: true
+  xy: 321, 244
+  size: 192, 93
+  orig: 194, 95
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+room_2_7.png
+size: 299,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei_1
+  rotate: true
+  xy: 68, 81
+  size: 206, 107
+  orig: 206, 107
+  offset: 0, 0
+  index: -1
+bei_2
+  rotate: false
+  xy: 68, 12
+  size: 147, 67
+  orig: 147, 67
+  offset: 0, 0
+  index: -1
+bei_s
+  rotate: true
+  xy: 2, 2
+  size: 285, 64
+  orig: 309, 72
+  offset: 16, 4
+  index: -1
+zhen_1
+  rotate: true
+  xy: 217, 6
+  size: 112, 39
+  orig: 114, 41
+  offset: 1, 1
+  index: -1
+zhen_1_s
+  rotate: true
+  xy: 258, 39
+  size: 109, 39
+  orig: 113, 41
+  offset: 2, 1
+  index: -1
+zhen_2
+  rotate: true
+  xy: 177, 120
+  size: 167, 59
+  orig: 169, 64
+  offset: 1, 1
+  index: -1
+zhen_2_s
+  rotate: true
+  xy: 238, 150
+  size: 137, 44
+  orig: 162, 53
+  offset: 10, 4
+  index: -1

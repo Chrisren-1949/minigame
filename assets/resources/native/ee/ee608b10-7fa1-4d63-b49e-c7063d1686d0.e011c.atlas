@@ -1,0 +1,76 @@
+
+room_1_3b.png
+size: 175,895
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caiqi
+  rotate: true
+  xy: 2, 398
+  size: 218, 165
+  orig: 218, 165
+  offset: 0, 0
+  index: -1
+chentu
+  rotate: true
+  xy: 2, 618
+  size: 120, 168
+  orig: 152, 210
+  offset: 17, 17
+  index: -1
+dingzi
+  rotate: true
+  xy: 81, 6
+  size: 19, 20
+  orig: 21, 22
+  offset: 1, 1
+  index: -1
+shengziyingzi
+  rotate: false
+  xy: 126, 54
+  size: 45, 115
+  orig: 52, 122
+  offset: 3, 4
+  index: -1
+tiezhi1
+  rotate: false
+  xy: 126, 12
+  size: 40, 40
+  orig: 42, 48
+  offset: 1, 3
+  index: -1
+tiezhi2
+  rotate: false
+  xy: 126, 171
+  size: 47, 48
+  orig: 51, 55
+  offset: 3, 4
+  index: -1
+xiangzi1
+  rotate: true
+  xy: 2, 27
+  size: 192, 122
+  orig: 203, 128
+  offset: 4, 2
+  index: -1
+xiangzi2
+  rotate: true
+  xy: 2, 221
+  size: 175, 159
+  orig: 175, 159
+  offset: 0, 0
+  index: -1
+xiangzi5_1
+  rotate: false
+  xy: 2, 740
+  size: 170, 153
+  orig: 171, 153
+  offset: 1, 0
+  index: -1
+xiangzi5_2
+  rotate: false
+  xy: 2, 2
+  size: 77, 23
+  orig: 79, 25
+  offset: 1, 1
+  index: -1

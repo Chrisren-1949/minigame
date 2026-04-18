@@ -1,0 +1,55 @@
+
+room_2_27.png
+size: 566,531
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: true
+  xy: 520, 99
+  size: 142, 39
+  orig: 144, 41
+  offset: 1, 1
+  index: -1
+ban_s
+  rotate: false
+  xy: 164, 2
+  size: 188, 328
+  orig: 198, 342
+  offset: 5, 7
+  index: -1
+lian_1a
+  rotate: true
+  xy: 164, 332
+  size: 197, 400
+  orig: 197, 400
+  offset: 0, 0
+  index: -1
+lian_1b
+  rotate: false
+  xy: 354, 13
+  size: 91, 317
+  orig: 91, 317
+  offset: 0, 0
+  index: -1
+lian_2
+  rotate: false
+  xy: 2, 12
+  size: 160, 517
+  orig: 160, 517
+  offset: 0, 0
+  index: -1
+lian_3
+  rotate: true
+  xy: 447, 243
+  size: 87, 110
+  orig: 89, 112
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 447, 108
+  size: 133, 71
+  orig: 141, 74
+  offset: 4, 2
+  index: -1

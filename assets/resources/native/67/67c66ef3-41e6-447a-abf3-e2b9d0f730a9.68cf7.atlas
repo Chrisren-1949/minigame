@@ -1,0 +1,41 @@
+
+room_2_30.png
+size: 619,291
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ye_1
+  rotate: false
+  xy: 182, 2
+  size: 234, 136
+  orig: 234, 136
+  offset: 0, 0
+  index: -1
+ye_2
+  rotate: false
+  xy: 182, 140
+  size: 239, 149
+  orig: 239, 149
+  offset: 0, 0
+  index: -1
+ye_3
+  rotate: false
+  xy: 2, 15
+  size: 178, 274
+  orig: 178, 274
+  offset: 0, 0
+  index: -1
+ye_4
+  rotate: false
+  xy: 423, 125
+  size: 194, 164
+  orig: 194, 164
+  offset: 0, 0
+  index: -1
+ye_5
+  rotate: false
+  xy: 418, 20
+  size: 188, 103
+  orig: 188, 103
+  offset: 0, 0
+  index: -1

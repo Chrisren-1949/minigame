@@ -1,0 +1,27 @@
+
+room_5_20.png
+size: 1230,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 16
+  size: 869, 242
+  orig: 869, 242
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 873, 98
+  size: 355, 160
+  orig: 357, 162
+  offset: 1, 1
+  index: -1
+c
+  rotate: false
+  xy: 873, 2
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1

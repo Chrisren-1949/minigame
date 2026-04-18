@@ -1,0 +1,69 @@
+
+room_5_1.png
+size: 576,596
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 320, 25
+  size: 140, 146
+  orig: 147, 153
+  offset: 4, 3
+  index: -1
+b
+  rotate: false
+  xy: 174, 2
+  size: 129, 112
+  orig: 136, 120
+  offset: 4, 5
+  index: -1
+c1
+  rotate: false
+  xy: 2, 5
+  size: 170, 109
+  orig: 175, 115
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 374, 167
+  size: 200, 103
+  orig: 206, 112
+  offset: 5, 4
+  index: -1
+d
+  rotate: false
+  xy: 392, 272
+  size: 176, 322
+  orig: 178, 324
+  offset: 1, 1
+  index: -1
+e
+  rotate: true
+  xy: 468, 46
+  size: 119, 81
+  orig: 121, 83
+  offset: 1, 1
+  index: -1
+f
+  rotate: true
+  xy: 320, 245
+  size: 89, 52
+  orig: 91, 54
+  offset: 1, 1
+  index: -1
+xz1
+  rotate: false
+  xy: 2, 336
+  size: 388, 258
+  orig: 388, 258
+  offset: 0, 0
+  index: -1
+xz2
+  rotate: false
+  xy: 2, 116
+  size: 316, 218
+  orig: 316, 218
+  offset: 0, 0
+  index: -1

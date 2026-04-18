@@ -1,0 +1,97 @@
+
+room_4_6.png
+size: 410,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 325, 12
+  size: 62, 57
+  orig: 64, 59
+  offset: 1, 1
+  index: -1
+10
+  rotate: true
+  xy: 220, 2
+  size: 18, 13
+  orig: 20, 15
+  offset: 1, 1
+  index: -1
+11
+  rotate: true
+  xy: 400, 121
+  size: 19, 8
+  orig: 21, 10
+  offset: 1, 1
+  index: -1
+12
+  rotate: true
+  xy: 400, 98
+  size: 21, 7
+  orig: 23, 9
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 304, 76
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 6
+  size: 134, 195
+  orig: 159, 237
+  offset: 20, 32
+  index: -1
+4
+  rotate: true
+  xy: 199, 22
+  size: 118, 103
+  orig: 134, 126
+  offset: 1, 13
+  index: -1
+5
+  rotate: false
+  xy: 384, 62
+  size: 24, 12
+  orig: 26, 16
+  offset: 1, 3
+  index: -1
+6
+  rotate: false
+  xy: 268, 5
+  size: 25, 15
+  orig: 27, 17
+  offset: 1, 1
+  index: -1
+7
+  rotate: true
+  xy: 257, 3
+  size: 17, 9
+  orig: 19, 13
+  offset: 1, 3
+  index: -1
+8
+  rotate: false
+  xy: 199, 2
+  size: 19, 18
+  orig: 21, 20
+  offset: 1, 1
+  index: -1
+8s
+  rotate: false
+  xy: 235, 3
+  size: 20, 17
+  orig: 27, 22
+  offset: 5, 1
+  index: -1
+9
+  rotate: false
+  xy: 295, 8
+  size: 28, 12
+  orig: 30, 14
+  offset: 1, 1
+  index: -1

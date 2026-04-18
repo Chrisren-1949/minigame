@@ -1,0 +1,83 @@
+
+room_3_15.png
+size: 746,90
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 399, 3
+  size: 48, 48
+  orig: 60, 60
+  offset: 4, 4
+  index: -1
+a1
+  rotate: false
+  xy: 487, 20
+  size: 50, 38
+  orig: 52, 40
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 347, 2
+  size: 50, 41
+  orig: 52, 43
+  offset: 1, 1
+  index: -1
+a3
+  rotate: true
+  xy: 605, 21
+  size: 67, 80
+  orig: 69, 85
+  offset: 1, 4
+  index: -1
+a4
+  rotate: true
+  xy: 2, 45
+  size: 43, 364
+  orig: 45, 369
+  offset: 1, 4
+  index: -1
+b1
+  rotate: true
+  xy: 449, 4
+  size: 47, 36
+  orig: 49, 38
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 539, 24
+  size: 44, 34
+  orig: 46, 37
+  offset: 1, 2
+  index: -1
+b3
+  rotate: false
+  xy: 687, 13
+  size: 57, 75
+  orig: 59, 77
+  offset: 1, 1
+  index: -1
+b4
+  rotate: true
+  xy: 2, 4
+  size: 39, 343
+  orig: 42, 345
+  offset: 1, 1
+  index: -1
+c1
+  rotate: false
+  xy: 368, 53
+  size: 116, 35
+  orig: 118, 37
+  offset: 1, 1
+  index: -1
+c2
+  rotate: false
+  xy: 486, 60
+  size: 117, 28
+  orig: 119, 30
+  offset: 1, 1
+  index: -1

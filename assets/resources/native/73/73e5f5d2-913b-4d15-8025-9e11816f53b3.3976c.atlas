@@ -1,0 +1,62 @@
+
+room_2_11.png
+size: 585,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chuangkuang
+  rotate: false
+  xy: 338, 2
+  size: 216, 58
+  orig: 233, 67
+  offset: 13, 3
+  index: -1
+huan_1
+  rotate: false
+  xy: 575, 250
+  size: 8, 17
+  orig: 10, 19
+  offset: 1, 1
+  index: -1
+huan_2
+  rotate: false
+  xy: 575, 231
+  size: 7, 17
+  orig: 9, 19
+  offset: 1, 1
+  index: -1
+lian_1
+  rotate: true
+  xy: 2, 122
+  size: 145, 455
+  orig: 145, 455
+  offset: 0, 0
+  index: -1
+lian_2
+  rotate: false
+  xy: 459, 62
+  size: 114, 205
+  orig: 114, 205
+  offset: 0, 0
+  index: -1
+lvzhi
+  rotate: false
+  xy: 338, 63
+  size: 60, 57
+  orig: 67, 63
+  offset: 1, 1
+  index: -1
+xiangkuang
+  rotate: true
+  xy: 178, 28
+  size: 92, 158
+  orig: 114, 172
+  offset: 7, 7
+  index: -1
+zhuwang
+  rotate: false
+  xy: 2, 18
+  size: 174, 102
+  orig: 174, 102
+  offset: 0, 0
+  index: -1

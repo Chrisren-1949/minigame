@@ -1,0 +1,34 @@
+
+room_2_25.png
+size: 96,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao
+  rotate: true
+  xy: 2, 72
+  size: 74, 49
+  orig: 76, 51
+  offset: 1, 1
+  index: -1
+maoyan
+  rotate: true
+  xy: 2, 2
+  size: 68, 47
+  orig: 70, 49
+  offset: 1, 1
+  index: -1
+maoyan_s
+  rotate: true
+  xy: 51, 5
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 53, 42
+  size: 41, 104
+  orig: 43, 106
+  offset: 1, 1
+  index: -1

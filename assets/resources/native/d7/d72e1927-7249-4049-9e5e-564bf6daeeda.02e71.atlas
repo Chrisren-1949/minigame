@@ -1,0 +1,62 @@
+
+room_5_22.png
+size: 495,499
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 361, 185
+  size: 312, 72
+  orig: 323, 83
+  offset: 1, 10
+  index: -1
+a
+  rotate: false
+  xy: 2, 239
+  size: 260, 258
+  orig: 262, 269
+  offset: 1, 1
+  index: -1
+a1
+  rotate: false
+  xy: 2, 8
+  size: 235, 229
+  orig: 240, 231
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 334, 207
+  size: 25, 25
+  orig: 27, 27
+  offset: 1, 1
+  index: -1
+b
+  rotate: false
+  xy: 264, 234
+  size: 95, 263
+  orig: 97, 271
+  offset: 1, 1
+  index: -1
+b1
+  rotate: false
+  xy: 239, 2
+  size: 93, 230
+  orig: 95, 235
+  offset: 1, 1
+  index: -1
+c
+  rotate: true
+  xy: 435, 180
+  size: 317, 58
+  orig: 317, 75
+  offset: 0, 2
+  index: -1
+d
+  rotate: false
+  xy: 334, 26
+  size: 42, 157
+  orig: 59, 168
+  offset: 7, 1
+  index: -1

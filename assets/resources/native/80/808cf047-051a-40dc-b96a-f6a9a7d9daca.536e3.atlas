@@ -1,0 +1,20 @@
+
+room_5_9b.png
+size: 192,99
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: false
+  xy: 2, 2
+  size: 96, 95
+  orig: 98, 97
+  offset: 1, 1
+  index: -1
+as
+  rotate: true
+  xy: 100, 2
+  size: 95, 90
+  orig: 106, 97
+  offset: 7, 3
+  index: -1

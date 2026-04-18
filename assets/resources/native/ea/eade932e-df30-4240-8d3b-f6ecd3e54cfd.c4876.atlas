@@ -1,0 +1,76 @@
+
+room_1_12.png
+size: 596,1016
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 519
+  size: 498, 495
+  orig: 500, 497
+  offset: 1, 1
+  index: -1
+1_up
+  rotate: true
+  xy: 297, 161
+  size: 201, 138
+  orig: 203, 141
+  offset: 1, 1
+  index: -1
+1ying
+  rotate: true
+  xy: 502, 672
+  size: 342, 92
+  orig: 342, 92
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 168
+  size: 293, 194
+  orig: 295, 196
+  offset: 1, 1
+  index: -1
+2ying
+  rotate: true
+  xy: 437, 188
+  size: 272, 78
+  orig: 272, 78
+  offset: 0, 0
+  index: -1
+bei
+  rotate: true
+  xy: 502, 462
+  size: 208, 91
+  orig: 210, 93
+  offset: 1, 1
+  index: -1
+beiying
+  rotate: true
+  xy: 517, 230
+  size: 230, 67
+  orig: 233, 69
+  offset: 1, 1
+  index: -1
+tanzi
+  rotate: false
+  xy: 2, 364
+  size: 386, 153
+  orig: 386, 153
+  offset: 0, 0
+  index: -1
+zhentou
+  rotate: false
+  xy: 292, 2
+  size: 268, 157
+  orig: 270, 159
+  offset: 1, 1
+  index: -1
+zhentouying
+  rotate: false
+  xy: 2, 17
+  size: 288, 149
+  orig: 294, 156
+  offset: 4, 2
+  index: -1

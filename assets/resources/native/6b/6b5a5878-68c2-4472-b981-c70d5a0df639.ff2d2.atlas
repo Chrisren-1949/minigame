@@ -1,0 +1,41 @@
+
+room_5_14.png
+size: 371,439
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 305, 19
+  size: 194, 49
+  orig: 196, 49
+  offset: 1, 0
+  index: -1
+b
+  rotate: false
+  xy: 2, 192
+  size: 190, 245
+  orig: 196, 250
+  offset: 1, 4
+  index: -1
+c
+  rotate: true
+  xy: 250, 39
+  size: 174, 53
+  orig: 174, 53
+  offset: 0, 0
+  index: -1
+d
+  rotate: true
+  xy: 2, 2
+  size: 188, 246
+  orig: 197, 252
+  offset: 1, 5
+  index: -1
+e
+  rotate: false
+  xy: 194, 215
+  size: 175, 222
+  orig: 175, 222
+  offset: 0, 0
+  index: -1

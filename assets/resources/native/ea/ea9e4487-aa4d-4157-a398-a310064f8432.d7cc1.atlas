@@ -1,0 +1,55 @@
+
+room_2_10.png
+size: 343,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiazi_1
+  rotate: false
+  xy: 250, 149
+  size: 91, 345
+  orig: 91, 345
+  offset: 0, 0
+  index: -1
+jiazi_2
+  rotate: true
+  xy: 2, 37
+  size: 85, 312
+  orig: 85, 312
+  offset: 0, 0
+  index: -1
+jiazi_s
+  rotate: false
+  xy: 2, 124
+  size: 246, 370
+  orig: 271, 402
+  offset: 10, 29
+  index: -1
+tai_1
+  rotate: false
+  xy: 215, 21
+  size: 98, 14
+  orig: 100, 16
+  offset: 1, 1
+  index: -1
+tai_2
+  rotate: true
+  xy: 316, 43
+  size: 104, 21
+  orig: 106, 23
+  offset: 1, 1
+  index: -1
+tai_3
+  rotate: false
+  xy: 2, 2
+  size: 105, 33
+  orig: 107, 35
+  offset: 1, 1
+  index: -1
+tai_4
+  rotate: false
+  xy: 109, 4
+  size: 104, 31
+  orig: 106, 33
+  offset: 1, 1
+  index: -1

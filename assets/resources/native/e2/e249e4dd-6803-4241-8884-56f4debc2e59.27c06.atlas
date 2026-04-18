@@ -1,0 +1,27 @@
+
+room_4_20.png
+size: 347,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 280, 62
+  size: 74, 65
+  orig: 76, 67
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 134, 246
+  orig: 136, 248
+  offset: 1, 1
+  index: -1
+s
+  rotate: true
+  xy: 250, 20
+  size: 116, 28
+  orig: 145, 39
+  offset: 16, 7
+  index: -1

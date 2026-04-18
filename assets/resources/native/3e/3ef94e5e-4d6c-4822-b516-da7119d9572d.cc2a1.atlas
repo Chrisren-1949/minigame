@@ -1,0 +1,55 @@
+
+room_2_18.png
+size: 392,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng_1a
+  rotate: false
+  xy: 2, 2
+  size: 287, 259
+  orig: 289, 261
+  offset: 1, 1
+  index: -1
+deng_1b
+  rotate: false
+  xy: 291, 23
+  size: 30, 88
+  orig: 34, 90
+  offset: 3, 1
+  index: -1
+deng_2b
+  rotate: false
+  xy: 323, 26
+  size: 28, 85
+  orig: 30, 87
+  offset: 1, 1
+  index: -1
+deng_3b
+  rotate: false
+  xy: 353, 40
+  size: 25, 71
+  orig: 27, 73
+  offset: 1, 1
+  index: -1
+deng_4b
+  rotate: true
+  xy: 323, 2
+  size: 22, 64
+  orig: 24, 66
+  offset: 1, 1
+  index: -1
+dizuo
+  rotate: true
+  xy: 291, 113
+  size: 148, 76
+  orig: 167, 88
+  offset: 1, 5
+  index: -1
+lianzi
+  rotate: false
+  xy: 369, 139
+  size: 21, 122
+  orig: 23, 124
+  offset: 1, 1
+  index: -1

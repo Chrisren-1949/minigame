@@ -1,0 +1,27 @@
+
+room_3_27a.png
+size: 345,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 191, 13
+  size: 94, 74
+  orig: 96, 79
+  offset: 1, 1
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 187, 182
+  orig: 189, 185
+  offset: 1, 2
+  index: -1
+s
+  rotate: false
+  xy: 191, 89
+  size: 152, 95
+  orig: 168, 118
+  offset: 6, 8
+  index: -1

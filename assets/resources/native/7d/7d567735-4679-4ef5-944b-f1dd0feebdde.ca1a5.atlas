@@ -1,0 +1,41 @@
+
+room_2_24.png
+size: 293,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng_1
+  rotate: true
+  xy: 2, 2
+  size: 71, 152
+  orig: 71, 152
+  offset: 0, 0
+  index: -1
+deng_1_s
+  rotate: true
+  xy: 2, 75
+  size: 55, 161
+  orig: 69, 169
+  offset: 10, 1
+  index: -1
+deng_2
+  rotate: true
+  xy: 165, 70
+  size: 60, 124
+  orig: 60, 124
+  offset: 0, 0
+  index: -1
+deng_2_s
+  rotate: true
+  xy: 156, 22
+  size: 46, 131
+  orig: 88, 144
+  offset: 7, 6
+  index: -1
+jing
+  rotate: true
+  xy: 2, 132
+  size: 122, 289
+  orig: 146, 310
+  offset: 17, 20
+  index: -1

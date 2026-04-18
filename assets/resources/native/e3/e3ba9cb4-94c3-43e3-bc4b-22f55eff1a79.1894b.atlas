@@ -1,0 +1,34 @@
+
+room_3_33.png
+size: 172,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 51, 2
+  size: 42, 82
+  orig: 44, 84
+  offset: 1, 1
+  index: -1
+1s
+  rotate: false
+  xy: 2, 2
+  size: 47, 82
+  orig: 56, 90
+  offset: 5, 5
+  index: -1
+2
+  rotate: true
+  xy: 95, 42
+  size: 42, 75
+  orig: 44, 77
+  offset: 1, 1
+  index: -1
+2s
+  rotate: true
+  xy: 95, 4
+  size: 36, 73
+  orig: 45, 82
+  offset: 5, 4
+  index: -1

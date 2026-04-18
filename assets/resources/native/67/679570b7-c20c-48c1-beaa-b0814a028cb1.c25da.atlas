@@ -1,0 +1,48 @@
+
+room_5_32.png
+size: 521,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 352, 3
+  size: 80, 40
+  orig: 82, 42
+  offset: 1, 1
+  index: -1
+a2
+  rotate: false
+  xy: 218, 2
+  size: 132, 131
+  orig: 142, 145
+  offset: 7, 7
+  index: -1
+b1
+  rotate: false
+  xy: 460, 77
+  size: 59, 56
+  orig: 61, 58
+  offset: 1, 1
+  index: -1
+b2
+  rotate: false
+  xy: 352, 45
+  size: 106, 88
+  orig: 108, 90
+  offset: 1, 1
+  index: -1
+c1
+  rotate: true
+  xy: 460, 6
+  size: 69, 42
+  orig: 71, 44
+  offset: 1, 1
+  index: -1
+c2
+  rotate: true
+  xy: 2, 6
+  size: 127, 214
+  orig: 127, 214
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+room_2_32.png
+size: 261,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao_2
+  rotate: false
+  xy: 2, 5
+  size: 118, 67
+  orig: 120, 70
+  offset: 1, 2
+  index: -1
+pen_1
+  rotate: false
+  xy: 230, 43
+  size: 29, 29
+  orig: 31, 31
+  offset: 1, 1
+  index: -1
+pen_2
+  rotate: false
+  xy: 122, 2
+  size: 106, 70
+  orig: 119, 81
+  offset: 6, 5
+  index: -1

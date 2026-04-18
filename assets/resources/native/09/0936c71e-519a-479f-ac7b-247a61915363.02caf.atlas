@@ -1,0 +1,111 @@
+
+room_1_9.png
+size: 1100,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiu_0
+  rotate: false
+  xy: 2, 272
+  size: 345, 281
+  orig: 346, 281
+  offset: 0, 0
+  index: -1
+jiu_1
+  rotate: false
+  xy: 349, 350
+  size: 406, 203
+  orig: 411, 220
+  offset: 4, 10
+  index: -1
+jiu_2
+  rotate: true
+  xy: 2, 14
+  size: 58, 241
+  orig: 65, 248
+  offset: 4, 3
+  index: -1
+jiu_3
+  rotate: false
+  xy: 947, 8
+  size: 42, 265
+  orig: 46, 267
+  offset: 3, 1
+  index: -1
+shuazi
+  rotate: false
+  xy: 593, 7
+  size: 148, 142
+  orig: 148, 142
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 743, 9
+  size: 184, 136
+  orig: 206, 154
+  offset: 9, 9
+  index: -1
+xin_1
+  rotate: true
+  xy: 757, 147
+  size: 406, 188
+  orig: 413, 190
+  offset: 4, 1
+  index: -1
+xin_2
+  rotate: false
+  xy: 1035, 48
+  size: 51, 225
+  orig: 58, 242
+  offset: 3, 16
+  index: -1
+xin_3
+  rotate: false
+  xy: 991, 8
+  size: 42, 265
+  orig: 44, 267
+  offset: 1, 1
+  index: -1
+xin_a_0
+  rotate: true
+  xy: 656, 174
+  size: 80, 58
+  orig: 82, 60
+  offset: 1, 1
+  index: -1
+xin_a_1
+  rotate: true
+  xy: 308, 2
+  size: 147, 283
+  orig: 147, 283
+  offset: 0, 0
+  index: -1
+xin_a_2
+  rotate: false
+  xy: 947, 275
+  size: 151, 278
+  orig: 151, 278
+  offset: 0, 0
+  index: -1
+xin_b_0
+  rotate: true
+  xy: 656, 256
+  size: 92, 68
+  orig: 94, 70
+  offset: 1, 1
+  index: -1
+xin_b_1
+  rotate: true
+  xy: 2, 74
+  size: 196, 304
+  orig: 196, 304
+  offset: 0, 0
+  index: -1
+xin_b_2
+  rotate: true
+  xy: 349, 151
+  size: 197, 305
+  orig: 197, 305
+  offset: 0, 0
+  index: -1

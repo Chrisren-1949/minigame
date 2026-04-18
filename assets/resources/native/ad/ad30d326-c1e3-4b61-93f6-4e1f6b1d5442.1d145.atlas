@@ -1,0 +1,76 @@
+
+room_2_22.png
+size: 1586,163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganzi
+  rotate: false
+  xy: 1349, 111
+  size: 226, 50
+  orig: 228, 52
+  offset: 1, 1
+  index: -1
+ganzi_s
+  rotate: false
+  xy: 1349, 18
+  size: 220, 91
+  orig: 227, 99
+  offset: 6, 4
+  index: -1
+huan1
+  rotate: false
+  xy: 1571, 90
+  size: 13, 19
+  orig: 15, 21
+  offset: 1, 1
+  index: -1
+huan2
+  rotate: true
+  xy: 927, 13
+  size: 15, 22
+  orig: 17, 24
+  offset: 1, 1
+  index: -1
+huan3
+  rotate: false
+  xy: 1571, 67
+  size: 11, 21
+  orig: 13, 23
+  offset: 1, 1
+  index: -1
+huan4
+  rotate: true
+  xy: 903, 9
+  size: 19, 22
+  orig: 21, 24
+  offset: 1, 1
+  index: -1
+huan5
+  rotate: false
+  xy: 1571, 45
+  size: 10, 20
+  orig: 12, 22
+  offset: 1, 1
+  index: -1
+lian_1
+  rotate: true
+  xy: 454, 20
+  size: 141, 447
+  orig: 156, 450
+  offset: 0, 3
+  index: -1
+lian_2
+  rotate: true
+  xy: 903, 30
+  size: 131, 444
+  orig: 131, 444
+  offset: 0, 0
+  index: -1
+lian_s
+  rotate: true
+  xy: 2, 2
+  size: 159, 450
+  orig: 178, 464
+  offset: 9, 7
+  index: -1

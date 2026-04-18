@@ -1,0 +1,55 @@
+
+room_4_3.png
+size: 493,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a
+  rotate: false
+  xy: 2, 200
+  size: 267, 183
+  orig: 269, 185
+  offset: 1, 1
+  index: -1
+1b
+  rotate: false
+  xy: 2, 107
+  size: 267, 91
+  orig: 269, 93
+  offset: 1, 1
+  index: -1
+1s
+  rotate: false
+  xy: 2, 385
+  size: 322, 136
+  orig: 350, 153
+  offset: 27, 7
+  index: -1
+2a
+  rotate: false
+  xy: 271, 85
+  size: 220, 245
+  orig: 222, 249
+  offset: 1, 1
+  index: -1
+2b
+  rotate: false
+  xy: 2, 2
+  size: 252, 103
+  orig: 252, 103
+  offset: 0, 0
+  index: -1
+2c
+  rotate: false
+  xy: 256, 4
+  size: 202, 79
+  orig: 204, 81
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 326, 332
+  size: 189, 156
+  orig: 191, 158
+  offset: 1, 1
+  index: -1

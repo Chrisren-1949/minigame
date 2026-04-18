@@ -1,0 +1,132 @@
+
+room_3_12b.png
+size: 286,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 112
+  size: 160, 27
+  orig: 162, 33
+  offset: 1, 2
+  index: -1
+10
+  rotate: true
+  xy: 2, 23
+  size: 25, 98
+  orig: 27, 100
+  offset: 1, 1
+  index: -1
+11
+  rotate: false
+  xy: 201, 308
+  size: 55, 118
+  orig: 57, 120
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 201, 428
+  size: 78, 88
+  orig: 80, 90
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 213, 125
+  size: 71, 75
+  orig: 73, 77
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 77
+  size: 33, 134
+  orig: 35, 136
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 164, 2
+  size: 34, 137
+  orig: 36, 139
+  offset: 1, 1
+  index: -1
+4
+  rotate: true
+  xy: 175, 308
+  size: 208, 24
+  orig: 210, 26
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 258, 320
+  size: 25, 106
+  orig: 27, 108
+  offset: 1, 1
+  index: -1
+6
+  rotate: true
+  xy: 175, 280
+  size: 26, 105
+  orig: 28, 107
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 256, 21
+  size: 25, 102
+  orig: 27, 106
+  offset: 1, 1
+  index: -1
+8
+  rotate: true
+  xy: 2, 50
+  size: 25, 100
+  orig: 27, 102
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 138, 11
+  size: 24, 99
+  orig: 26, 101
+  offset: 1, 1
+  index: -1
+o1
+  rotate: false
+  xy: 2, 273
+  size: 171, 243
+  orig: 176, 285
+  offset: 1, 41
+  index: -1
+o2
+  rotate: false
+  xy: 2, 141
+  size: 209, 130
+  orig: 211, 132
+  offset: 1, 1
+  index: -1
+o3
+  rotate: false
+  xy: 200, 6
+  size: 54, 117
+  orig: 56, 119
+  offset: 1, 1
+  index: -1
+o4
+  rotate: false
+  xy: 213, 202
+  size: 71, 76
+  orig: 73, 78
+  offset: 1, 1
+  index: -1
+o5
+  rotate: false
+  xy: 104, 4
+  size: 25, 71
+  orig: 27, 73
+  offset: 1, 1
+  index: -1
